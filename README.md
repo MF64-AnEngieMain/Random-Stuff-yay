@@ -1,6 +1,8 @@
 Smash Apps
 ==========
 
+Original repository: https://github.com/AxeEnding999/smash-apps
+
 A collection of useful web apps for Super Smash Bros.
 
 [Use them!](http://quetzle.github.io/smash-apps)
